@@ -5,15 +5,14 @@ A modern React starter with Vite, TypeScript, and shadcn/ui.
 ## Quick Start
 
 ```bash
-# Create new project
-npx create-next-app@latest my-app --template https://github.com/ravvdevv/ravenkit
+# Clone the repository
+git clone https://github.com/ravvdevv/RavenKit.git
+cd RavenKit
 
-cd my-app
-
-# Install deps
+# Install dependencies
 npm install
 
-# Start dev server
+# Start the development server
 npm run dev
 ```
 
@@ -29,4 +28,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## License
 
-MIT © [RavvDev](https://github.com/ravvdevv)
+MIT © [Raven](https://github.com/ravvdevv)
