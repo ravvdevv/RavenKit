@@ -30,6 +30,8 @@ cd RavenKit
 
 # 2. Install dependencies
 bun install
+bun add tailwindcss @tailwindcss/vite
+bun add -D @types/node
 
 # 3. Start the development server
 bun run dev
